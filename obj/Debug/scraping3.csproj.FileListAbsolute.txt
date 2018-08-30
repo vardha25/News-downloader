@@ -1,0 +1,7 @@
+C:\Users\welcome\Documents\Visual Studio 2013\Projects\scraping3\scraping3\bin\scraping3.dll.config
+C:\Users\welcome\Documents\Visual Studio 2013\Projects\scraping3\scraping3\bin\scraping3.dll
+C:\Users\welcome\Documents\Visual Studio 2013\Projects\scraping3\scraping3\bin\scraping3.pdb
+C:\Users\welcome\Documents\Visual Studio 2013\Projects\scraping3\scraping3\obj\Debug\scraping3.csprojResolveAssemblyReference.cache
+C:\Users\welcome\Documents\Visual Studio 2013\Projects\scraping3\scraping3\obj\Debug\scraping3.dll
+C:\Users\welcome\Documents\Visual Studio 2013\Projects\scraping3\scraping3\obj\Debug\scraping3.pdb
+C:\Users\welcome\Documents\Visual Studio 2013\Projects\scraping3\scraping3\bin\H2PTesting.dll
